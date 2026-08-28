@@ -1,45 +1,40 @@
 # 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enes Yaşarbaş
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Enes Yaşarbaş
 =====================================================================================================================================
 
-Computer Engineer
------------------
+Software Engineer — Identity & Access Management
+-----------------------------------------------
 
-Hello, I am Enes Yaşarbaş. My passion for software development shapes my goal of building dynamic web applications. I work with the latest technologies such as Asp.Net Core and build my projects on this foundation.
+I build enterprise IAM software at [Securify Identity](https://www.securifyidentity.com/): workflow automation engines, RBAC and role-hierarchy modeling, Segregation of Duties enforcement, provisioning flows and directory integrations (LDAP, Active Directory, Azure AD) — in a multi-tenant .NET product running in 60+ customer environments.
 
-I am always eager to face new challenges. With a desire to continuously expand my capabilities, I am determined to keep up with the rapid changes in the software engineering world. I would be happy for you to visit my GitHub page and check out my ongoing projects.
+I like the hard parts of backend work: concurrency, hierarchical data models, scheduled execution and correctness under multi-tenancy. Recent example — a nightly multi-tenant directory sync taken from 5.5 hours to 25 minutes with two-level bounded parallelism.
 
-Feel free to contact me with any questions, suggestions or feedback. Your feedback is of great importance to me. I am here for good collaboration and innovative projects.
-
-* 🌍  I'm based in Ankara
-* ✉️  You can contact me at [yasarbas583@gmail.com](mailto:yasarbas583@gmail.com)
-* 🚀  I'm currently working on [Traversal Booking](http://github.com/eYasarbas/Traversal_Booking)
-* 🧠  I'm learning Asp.NetCore
+* 🌍  I'm based in Ankara, Türkiye
+* ✉️  You can contact me at [yasarbas583@gmail.com](mailto:yasarbas583@gmail.com)
+* 🔐  Lead developer of the platform's workflow engine, Role/Entitlement API and SoD enforcement
+* 🚀  Currently working on Realm / SAML federation
+* 🧪  Researched FIDO2 and passwordless authentication in a TÜBİTAK project (ITU, Prof. Dr. Kemal Bıçakcı)
+* 🎓  M.Sc. Computer Engineering, Erzurum Technical University
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-ya%C5%9Farba%C5%9F-65819217b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YasarbasEnes) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enesyasarbas/) [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://twitter.com/YasarbasEnes)
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) -->
-<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
- <!-- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)--> <!-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)-->
- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
- <!-- 
- [TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
- -->
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+
+![Identity & Access Management](https://img.shields.io/badge/Identity%20%26%20Access%20Management-1F2937?style=for-the-badge) ![RBAC](https://img.shields.io/badge/RBAC-374151?style=for-the-badge) ![LDAP / Active Directory](https://img.shields.io/badge/LDAP%20%2F%20Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![SAML](https://img.shields.io/badge/SAML%20%2F%20Federation-4B5563?style=for-the-badge) ![FIDO2](https://img.shields.io/badge/FIDO2-111827?style=for-the-badge)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Quartz.NET](https://img.shields.io/badge/Quartz.NET-6B7280?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📁 About these repositories
+Most of my current work lives in private enterprise repositories. The public repos here are mainly from my university and early-career period — they show breadth (ASP.NET Core, REST APIs, CNN image classification, blockchain + Flutter) rather than what I work on day to day.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eYasarbas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eYasarbas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eYasarbas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eYasarbas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img src="https://raw.githubusercontent.com/eYasarbas/eYasarbas/output/snake.svg" alt="Snake animation"/>
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eYasarbas&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
